@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "chart.js": "^2.9.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilippeFuhrer/NPM_Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PhilippeFuhrer/NPM_Project/issues"
+  },
+  "homepage": "https://github.com/PhilippeFuhrer/NPM_Project#readme"
 }
